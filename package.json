@@ -1,0 +1,23 @@
+{
+  "name": "infakt-website-tests-e2e",
+  "version": "1.0.0",
+  "description": "inFakt website tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automatiion",
+    "tests",
+    "cypress"
+  ],
+  "author": "Nicola Kasanji",
+  "license": "ISC",
+  "pageLoadTimeout": 120000,
+  "devDependencies": {
+    "@types/cypress": "^1.1.3"
+  },
+  "dependencies": {
+    "epub": "^1.2.1"
+  }
+}
